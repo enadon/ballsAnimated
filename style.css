@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: unset;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+canvas {
+    background: rgb(241, 203, 203);
+
+}
